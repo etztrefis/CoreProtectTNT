@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab86340a-f0e9-4624-ab11-7f54cd5099b4" name="Default Changelist" comment="Support">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +39,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,6 +65,35 @@
       <recent name="C:\Users\MACHENIKE\OneDrive\eclipse-workspace\CoreProtectTNT\lib" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="CoreProtectTNT [clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -151,40 +185,6 @@
     <MESSAGE value="Support Ghast Fireball" />
     <MESSAGE value="Remove a strange depend" />
     <option name="LAST_COMMIT_MESSAGE" value="Remove a strange depend" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="542" y="142" key="CommitChangelistDialog2" timestamp="1597065597178">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="542" y="142" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1597065597178" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1597065614242">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1597065614242" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1597065614241">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1597065614241" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1597065614241">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1597065614241" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1597065614241">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1597065614241" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1597065602908">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1597065602908" />
-    <state x="821" y="333" key="chooseDestDirectoryDialog" timestamp="1597065271440">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="821" y="333" key="chooseDestDirectoryDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1597065271440" />
-    <state x="434" y="216" key="new project wizard" timestamp="1595602244864">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="434" y="216" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1595602244864" />
   </component>
   <component name="masterDetails">
     <states>
